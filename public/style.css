@@ -1,0 +1,62 @@
+body{
+    background-color: maroon;
+}
+
+h1,h2{
+    text-align: center;
+    color: white;
+}
+
+.username{
+    font-weight: bold;
+    margin: 0;
+}
+
+.content{
+    font-style: italic;
+}
+
+.posts{
+    margin: 5px;
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+.newPost{
+    margin: 5px;
+    background-color: blanchedalmond;
+    padding: 5px;
+    text-align: center;
+}
+
+input,textarea,button{
+    margin: 5px;
+    width: 20%;
+}
+
+:placeholder-shown{
+    text-align: center;
+}
+
+button{
+    background-color: maroon;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer > a{
+    text-decoration: none;
+    color: white;
+}
+
+.see_post{
+    color: blueviolet;
+}
